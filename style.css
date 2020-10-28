@@ -6,11 +6,24 @@ body {
 header {
     background-color: whitesmoke;
     text-align: center;
+    padding: 10px;
+    margin-left: 25px; 
+    margin-right: 25px; 
+    
+    
 }
 
 .title{
     font-family: fantasy;
     font-size: 36px;
+}
+
+article {
+    background-color: whitesmoke; 
+    padding: 60px; 
+    margin-left: 25px; 
+    margin-right: 25px; 
+    margin-bottom: 50px; 
 }
 
 footer {

@@ -11,6 +11,7 @@ require __DIR__.'/functions.php';
 ?>
 
 
+<article>
 
 <h1>Todays news</h1>
 
@@ -19,6 +20,8 @@ require __DIR__.'/functions.php';
   <?php getNewsFeed($authors, $newsFeed); ?>
 
   <?php echo strtotime('october 5th'); ?>
+
+</article>
 
 <?php 
 
