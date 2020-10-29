@@ -16,6 +16,14 @@ header {
 .title{
     font-family: fantasy;
     font-size: 36px;
+    margin-left: 200px;
+    margin-right: 200px;
+    transition: all 0.5s ease;
+}
+
+.title:hover {
+    color: hotpink;
+    font-size: 42px;
 }
 
 article {
@@ -35,4 +43,14 @@ p{
     font-size: 14px;
     text-align: left;
     text-align: center;
+}
+
+@keyframes grow{
+    from{width: 10px; height: 50px;}
+    to{width: 100px; height: 100px;}
+}
+
+img{
+    animation-name: grow;
+    animation-duration: 2s;
 }
