@@ -29,19 +29,6 @@ Full name
 
 The news feed items should be ordered based on the published date, so the latest news feed item should go on top and vice versa.
 
-The project should use the following PHP functionality:
-
-Variables
-
-Multiple data types
-
-Arrays
-
-Functions
-
-Loops (for, while or foreach)
-
-Output (echo, print etc.)
 
 
 Installation instructions:
