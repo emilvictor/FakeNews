@@ -43,10 +43,6 @@ The news feed items should be ordered based on the published date, so the latest
 - Dante Mogrim
 
 
-## License
-See [The MIT License]
-
-
 ## Feedback - Joakim Sjögren
 
 function.php:20-35 - I would've renamed "$Item" to something that better explains what it is.
@@ -61,3 +57,7 @@ function.php40-42 - I would've used another name for the "sortFunction" and inst
 I would also rename the parameters: "$a", "$b".
 
 Overall a really great job!
+
+
+## License
+See [The MIT License]
