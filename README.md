@@ -3,45 +3,45 @@
 First assignment in PHP
 
 
-Assignment instructions:
+## Assignment instructions
 
-The news feed will consist solely of a list of 10 news feed items created by 5 different authors.
+The news feed will consist solely of a list of 10 news feed items created by 5 different authors. 
 
+### The news feed items should contain:
 
-The news feed items should contain:
-
-Title
-
-Content
-
-Author
-
-Published date
-
-Like counter (the number of likes a news feed item has received)
+- Title
+- Content
+- Author
+- Published date
+- Like counter (the number of likes a news feed item has received)
 
 
-The news feed author items should contain the following data:
+### The news feed author items should contain the following data:
 
-ID
-
-Full name
+- ID
+- Full name
 
 The news feed items should be ordered based on the published date, so the latest news feed item should go on top and vice versa.
 
+### The project should use the following PHP functionality:
+
+- Variables
+- Multiple data types
+- Arrays
+- Functions
+- Loops (for, while or foreach)
+- Output (echo, print etc.)
+
+## Installation instructions
+- Clone down the project to you computer:
+- $ git clone https://github.com/emilvictor/FakeNews
+- Start your server.
+- Open the index.php file in your browser.
+
+## Testers
+- Moa Berg
+- Dante Mogrim
 
 
-Installation instructions:
-
-Clone down the project to you computer:
-
-$ git clone https://github.com/emilvictor/FakeNews
-
-Start your server.
-
-Open the index.php file in your browser.
-
-
-Testers:
-
-Moa & Dante
+## License
+See [The MIT License]
