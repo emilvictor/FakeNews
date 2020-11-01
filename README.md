@@ -45,3 +45,19 @@ The news feed items should be ordered based on the published date, so the latest
 
 ## License
 See [The MIT License]
+
+
+## Feedback - Joakim Sjögren
+
+function.php:20-35 - I would've renamed "$Item" to something that better explains what it is.
+
+function.php - Remember to use strict types. Such as "string" or "int". To make sure you get the right result. 
+
+function.php - I would recommend to use more comments, to explain what you are doing and why.
+
+function.php:20-35 - Instead of having to close and reopen php tags. maybe you could use the "<br>" within you php code.
+
+function.php40-42 - I would've used another name for the "sortFunction" and instead name it to what you are sorting.
+I would also rename the parameters: "$a", "$b".
+
+Overall a really great job!
